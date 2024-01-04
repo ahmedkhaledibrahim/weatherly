@@ -1,16 +1,25 @@
 # weatherly
 
-A new Flutter project.
+Weather Forecast Application that enables users to search for forecast details about their locations and search for other cities forecast details
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- get forecast details by IP
+- get 12 hour forecast about the location
+- search for desired cities
+- auto complete for cities search
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+api : AccuWeather API
+state management : Cubit
+http services : dio, retrofit, json serializable,
+ui/uix : flutterflow
+
+## screenshots
+
+![Getting Started](https://postimg.cc/v418WgPn)
+![Forecast Details](https://postimg.cc/S2zYx19n)
