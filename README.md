@@ -22,4 +22,11 @@ ui/uix : flutterflow
 ## screenshots
 
 ![Getting Started](./assets/screenshots/gettingstarted.png)
-![Forecast Details](https://postimg.cc/S2zYx19n)
+![Forecast Details](./assets/screenshots/forecastdetails.png)
+![12-Hours Forecast](./assets/screenshots/12hoursforecast.png)
+![Search City](./assets/screenshots/searchcity.png)
+![Search Results](./assets/screenshots/searchresults.png)
+![Forecast Details](./assets/screenshots/forecastdetails2.png)
+
+
+
