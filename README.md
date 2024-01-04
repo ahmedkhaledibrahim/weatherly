@@ -21,5 +21,5 @@ ui/uix : flutterflow
 
 ## screenshots
 
-![Getting Started](https://postimg.cc/v418WgPn)
+![Getting Started](./assets/screenshots/gettingstarted.png)
 ![Forecast Details](https://postimg.cc/S2zYx19n)
