@@ -14,10 +14,11 @@ This project is a starting point for a Flutter application.
 - auto complete for cities search
 
 ## Technologies Used
-- api : AccuWeather API
-- state management : Cubit
-- http services : dio, retrofit, json serializable,
-- ui/uix : flutterflow
+- API : AccuWeather API
+- State Management : Cubit
+- http Services : dio, retrofit, json serializable,
+- UI/UX : flutterflow
+- Dependency Injection : GetIt
 
 ## screenshots
 
